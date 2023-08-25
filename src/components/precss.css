@@ -1,0 +1,8 @@
+.div1{
+    height: 100px;
+    width: 100px;
+    border-top: 5px solid black;
+    border-radius: 50%;
+    border-color: blue;
+    /* background-color: aqua; */
+}
